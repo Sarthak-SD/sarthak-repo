@@ -10,9 +10,9 @@ Features
 * Score tracking
 
 Technologies Used
-*HTML5
-*CSS3
-*JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 Getting Started
 To play the game, follow these steps:
